@@ -1,0 +1,11 @@
+{
+    "name": "package.json",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "tsc --watch"
+    },
+    "author": "nawaf",
+    "license": "ISC"
+}
